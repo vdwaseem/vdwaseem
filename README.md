@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Muhammad Waseem Irshad, full-stack software engineer. Currently working in VentureDive Karachi, Pakistan. I have total 7 years of experience in working on JavaScript projects. You can visit my personal website [prowaseem.com](www.prowaseem.com) to read more about me and view my portfolio of projects.
+My name is Muhammad Waseem Irshad, full-stack software engineer. Currently working in VentureDive Karachi, Pakistan. I have total 7 years of experience in working on JavaScript projects. You can visit my personal website [prowaseem.com](https://prowaseem.com) to read more about me and view my portfolio of projects.
 
 ## Tools I work on
 - React
