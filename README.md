@@ -17,7 +17,7 @@ My name is Muhammad Waseem Irshad, full-stack software engineer. Currently worki
 - Email: theprowaseem@gmail.com
 - Contact: +92-3158305202
 - Github: [vdwaseem](https://github.com/vdwaseem)
-- Person Portfolio: [prowaseem.com](www.prowaseem.com)
+- Person Portfolio: [prowaseem.com]([prowaseem.com](https://prowaseem.com)
 <!--
 **prowaseem/prowaseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
